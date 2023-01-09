@@ -1,11 +1,19 @@
+![image](https://user-images.githubusercontent.com/105449595/210867828-0ee823f8-5650-42a4-aef7-617bd58d7c71.png)
+
 # Project 진행  
 ## 완료  
-### Project Muins  
+### 팀 프로젝트  
+#### Project : Muins  
+인원 : 2명
 주소 : https://github.com/HangIn2C/Muins  
 
-#### 팀 프로젝트
-인원 : 2명
+## 미완료
+### 개인 프로젝트  
+#### Project : gameWeb(진행중)
 
 
 
-![image](https://user-images.githubusercontent.com/105449595/210867828-0ee823f8-5650-42a4-aef7-617bd58d7c71.png)
+### 공부용 프로젝트
+#### Project : jpaBoard
+
+#### Project : programmers
