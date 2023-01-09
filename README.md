@@ -11,12 +11,6 @@
 ### 개인 프로젝트  
 #### Project : gameWeb(진행 중)
 
-#### Project : gameWeb(진행 예정)
-
-#### Project : gameWeb(진행 예정)
-
-#### Project : gameWeb(진행 예정)
-
 
 ### 공부용 프로젝트
 #### Project : jpaBoard
