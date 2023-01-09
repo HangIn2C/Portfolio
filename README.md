@@ -4,7 +4,7 @@
 ## 완료  
 ### 팀 프로젝트  
 #### Project : Muins  
-인원 : 2명
+인원 : 2명  
 주소 : https://github.com/HangIn2C/Muins  
 
 ## 미완료
