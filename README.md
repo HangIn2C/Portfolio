@@ -14,6 +14,6 @@
 
 ### 공부용 프로젝트
 #### Project : jpaBoard
-
+https://github.com/HangIn2C/jpaBoard.git  
 #### Project : programmers
-https://github.com/HangIn2C/programmers.git 
+https://github.com/HangIn2C/programmers.git  
